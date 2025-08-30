@@ -1,0 +1,12 @@
+{
+    "Paracetamol": {
+        "max_dose": "4000mg/day",
+        "age_limit": "Safe for all ages above 2 months",
+        "alternatives": ["Ibuprofen", "Aspirin"]
+    },
+    "Amoxicillin": {
+        "max_dose": "3000mg/day",
+        "age_limit": "Use with caution in infants",
+        "alternatives": ["Azithromycin", "Cefixime"]
+    }
+}
